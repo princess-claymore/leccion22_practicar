@@ -8,9 +8,9 @@ div{
   left: 10%;
   position: relative;
   box-sizing: border-box;
-  padding-top:  50px;
+/*  padding-top:  50px;
   padding-bottom: 50px;
-  text-align: center;
+  */
 
 }
 
@@ -20,8 +20,8 @@ div{
 }
 .dos{
   background-color: #ff0099;
-  width: 70px;
-  
+
+
 }
 .tres{
   background-color:#ffff00;
