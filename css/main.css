@@ -1,29 +1,57 @@
 div{
   font-size:18pt;
-  height: 100px;
-  display:inline-block;
-  width: 290px;
-  height: 100px;
+  height: 80px;
+  width: 80px;
+  margin: 10px;
+  box-sizing: border-box;
+/*  display:inline-block;
+  width: 80px;
+  height: 80px;
   margin: 10px;
   left: 10%;
-  position: relative;
-  box-sizing: border-box;
+/*  position: relative;
+
 /*  padding-top:  50px;
   padding-bottom: 50px;
   */
-
-}
-
-.uno{
-  background-color: #ffff00;
-  margin-top: 100px;
-}
-.dos{
-  background-color: #ff0099;
+  }
+  .dos > div{
+  /*  height: 80px;
+    width: 80px;*/
+    margin: 6px;
 
 
-}
-.tres{
-  background-color:#ffff00;
-  text-transform: uppercase;
-}
+  }
+  .uno{
+    background-color: #ffff00;
+    margin-top: 100px;
+   }
+  .dos{
+    background-color: #ff0099;
+    width: 300px;
+    height: 100px;/*alto*/
+
+     }
+  .tres{
+    background-color:#ffff00;
+    display: inline-block;
+   }
+  .cuatro{
+    background-color: green;
+    display: inline-block;
+  }
+  .cinco{
+    background-color: orange;
+    display: inline-block;
+  }
+  .seis, .siete {
+    background-color:#00D4FF;
+    display: inline-block;
+
+  }
+  .ocho{
+    background-color:#00D4FF;
+    display: block;
+
+
+  }
