@@ -1,11 +1,16 @@
 div{
   font-size:18pt;
   height: 100px;
-  width: 250px;
+  display:inline-block;
+  width: 290px;
   height: 100px;
   margin: 10px;
-  left: 40%;
+  left: 10%;
   position: relative;
+  box-sizing: border-box;
+  padding-top:  50px;
+  padding-bottom: 50px;
+  text-align: center;
 
 }
 
@@ -15,6 +20,8 @@ div{
 }
 .dos{
   background-color: #ff0099;
+  width: 70px;
+  
 }
 .tres{
   background-color:#ffff00;
