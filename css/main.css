@@ -1,0 +1,16 @@
+div{
+  font-size:18pt;
+  height: 100px;
+}
+
+.uno{
+  background-color: #ffff00;
+
+}
+.dos{
+  background-color: #ff0099;
+}
+.tres{
+  background-color:#ffff00;
+  text-transform: uppercase;
+}
