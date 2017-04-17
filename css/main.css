@@ -1,11 +1,17 @@
 div{
   font-size:18pt;
   height: 100px;
+  width: 250px;
+  height: 100px;
+  margin: 10px;
+  left: 40%;
+  position: relative;
+
 }
 
 .uno{
   background-color: #ffff00;
-
+  margin-top: 100px;
 }
 .dos{
   background-color: #ff0099;
